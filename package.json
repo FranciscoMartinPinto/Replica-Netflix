@@ -1,0 +1,23 @@
+{
+  "name": "practicando",
+  "version": "1.0.0",
+  "description": "Replicando Netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoMartinPinto/Replica-Netflix.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Francisco Martin Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoMartinPinto/Replica-Netflix/issues"
+  },
+  "homepage": "https://github.com/FranciscoMartinPinto/Replica-Netflix#readme"
+}
